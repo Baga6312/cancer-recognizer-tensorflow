@@ -1,4 +1,6 @@
-tensorflow
-flask 
-sckit-learn 
-
+flask
+#tensorflow 
+scikit-learn 
+numpy 
+opencv-python 
+matplotlib
